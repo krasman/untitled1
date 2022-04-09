@@ -64,6 +64,7 @@ public class task5 {
         int startI = i>0? i-1:0;
         int endI = i<n-1? i+1:n-1;
         int startJ=j>0? j-1:0;
+        //asdfkjbaiugWFIOUUGASDFILUGASDFGUILFSDAULASFDO;IH;
         int endJ = j<m-1? j+1:m-1;
         for (int f=startI; f<=endI; f++){
             for (int k=startJ; k<=endJ; k++){
